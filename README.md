@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Test for GitHub Pages
+It is a template of Github pages with Markdown files auto-run by Jekyll.
 
 You can use the [editor on GitHub](https://github.com/MingxuZhang/Hello-World/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
 
